@@ -6,3 +6,7 @@ hs_err_pid*
 *.xml
 *.pb
 .idea
+project
+project/*
+target
+target/*
